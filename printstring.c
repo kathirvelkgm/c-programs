@@ -9,7 +9,7 @@ scanf("%s",&a[i]);
 }
 for(i=0;i<n;i++)
 {
-printf(:"%s",a[i]);
+printf("%s",a[i]);
 }
 return 0;
 }
